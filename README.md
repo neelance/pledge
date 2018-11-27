@@ -1,5 +1,5 @@
-Pledge of the Responsible Open Source Contributor
-=================================================
+Pledge of the Responsible Open Source Maintainer
+================================================
 
 I am offering my projects under an open source licence, because I want it to be useful for other people. Other people's work will be influenced by my own decisions, so I pledge the following:
 
@@ -17,6 +17,6 @@ Using this pledge
 
 The nature of this pledge is a voluntary opt-in, as in "I feel responsible", not "I am responsible". It is everybody's personal decision if they want to offer this voluntarily responsibility or not. Here is a badge that you can put on your project page if you feel like it:
 
-[![Pledge of the Responsible Open Source Contributor](https://img.shields.io/badge/pledge-responsible%20contributor-brightgreen.svg)](https://github.com/neelance/pledge)
+[![Pledge of the Responsible Open Source Maintainer](https://img.shields.io/badge/pledge-responsible%20maintainer-brightgreen.svg)](https://github.com/neelance/pledge)
 
 Please keep in mind that this pledge can evolve, so either follow its changes or use your own fork.
